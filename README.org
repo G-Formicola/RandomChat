@@ -1,0 +1,43 @@
+#+OPTIONS: date:nil title:nil toc:nil author:nil
+#+STARTUP: overview
+* Random Chat
+#+BEGIN_HTML
+<div align="center">
+  A concurrent and multithreaded Client-Server architecture written entirely in C using the standard library and UNIX system calls
+</div>
+
+<div align="center">
+        <h1> </h1>
+</div>
+
+
+<div align="center">
+
+  <!-- License -->
+  
+  <a href="https://github.com/G-Formicola/RandomChat/blob/main/LICENSE">
+      <img
+              src="https://img.shields.io/badge/License-GPL_v3-blue.svg?style=for-the-badge&color=red"
+              alt="License"
+      />
+  </a>
+
+  <!-- Client -->
+  <a href="https://github.com/G-Formicola/RandomChat/tree/main/Client"
+          ><img
+              src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"
+              alt="Powered by C"
+      /></a>
+
+  <!-- Server -->
+  <a href="https://github.com/G-Formicola/RandomChat/tree/main/Server"
+          ><img
+              src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"
+              alt="Powered by C"
+      /></a>
+      <h3>| License | Client | Server |</h3>
+</div>
+#+END_HTML
+
+* Contributors
+Giorgio Formicola N86/2220 & Antonio Natale N86/2769
